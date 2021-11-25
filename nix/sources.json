@@ -24,15 +24,15 @@
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
     },
     "cardano-db-sync-12": {
-        "branch": "refs/tags/12.0.0-pre5",
+        "branch": "refs/tags/12.0.0",
         "description": "A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL",
         "homepage": "",
         "owner": "input-output-hk",
         "repo": "cardano-db-sync",
-        "rev": "2ee31a556c8293be8413565cd30ef5483d01554e",
-        "sha256": "0hl45wpnd9i3ghbkyc0zhd46gcx8j12kvr293b9l93mcdmd22ayf",
+        "rev": "9d0180571482ee4c6acb6fbc6bf55b5a4e2ee833",
+        "sha256": "1dxass5r2dyga2rhnzpd6yw4mawnwq74815paqgwdip850bjdfz2",
         "type": "tarball",
-        "url": "https://github.com/input-output-hk/cardano-db-sync/archive/2ee31a556c8293be8413565cd30ef5483d01554e.tar.gz",
+        "url": "https://github.com/input-output-hk/cardano-db-sync/archive/9d0180571482ee4c6acb6fbc6bf55b5a4e2ee833.tar.gz",
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
     },
     "cardano-db-sync-service": {

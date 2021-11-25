@@ -56,7 +56,6 @@ in {
 
   withMonitoring = true;
   withExplorer = true;
-  withCardanoDBExtended = true;
   withSubmitApi = false;
   withFaucet = false;
   faucetHostname = "faucet";
