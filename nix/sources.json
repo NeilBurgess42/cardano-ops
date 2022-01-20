@@ -168,15 +168,15 @@
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
     },
     "offchain-metadata-tools": {
-        "branch": "jbgi/better-readBatch",
+        "branch": "master",
         "description": "Tools for creating, submitting, and managing off-chain metadata such as multi-asset token metadata",
         "homepage": "",
         "owner": "input-output-hk",
         "repo": "offchain-metadata-tools",
-        "rev": "279b1f1f1162745995cc25d83d860e69ace748e6",
-        "sha256": "1lf1qrzqkhdbsdcmq58zh8j43f3h29lhq0gfklrj3n5xnzg5lzba",
+        "rev": "1c869da5034ddf2cbfbc3f98de85436059e5c838",
+        "sha256": "02h5q44zn2m3ry3s6aj70x3bri154zbvjksiv77iwpdbk0h3wlyb",
         "type": "tarball",
-        "url": "https://github.com/input-output-hk/offchain-metadata-tools/archive/279b1f1f1162745995cc25d83d860e69ace748e6.tar.gz",
+        "url": "https://github.com/input-output-hk/offchain-metadata-tools/archive/1c869da5034ddf2cbfbc3f98de85436059e5c838.tar.gz",
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
     },
     "ogmios": {
